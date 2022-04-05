@@ -1,0 +1,34 @@
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-image: linear-gradient(90deg, #FF6464 0%, #FFE162 100%);
+    font-family: 'Red Hat Display', sans-serif;
+    color: white;
+}
+
+button {
+    background-color: transparent;
+    border: transparent;
+}
+
+img.contacts {
+    padding: 20 px 20 px;
+    height: 5%;
+    width: 5%;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+section {
+    text-align: center;
+}
